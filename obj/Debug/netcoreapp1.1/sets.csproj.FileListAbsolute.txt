@@ -1,0 +1,8 @@
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.deps.json
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.runtimeconfig.json
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.runtimeconfig.dev.json
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.dll
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.pdb
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/obj/Debug/netcoreapp1.1/sets.AssemblyInfo.cs
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/obj/Debug/netcoreapp1.1/sets.dll
+/Users/NashvilleSoftwareSchoolMac1/workspace/csharp/exercises/sets/obj/Debug/netcoreapp1.1/sets.pdb
